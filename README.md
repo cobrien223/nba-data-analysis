@@ -10,7 +10,7 @@ This project analyzes NBA team performance from 2000–2024 using SQL and Tablea
 - Tableau (data visualization)
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.jpg)
 
 ## Key Analysis
 - Ranked teams by average win percentage
